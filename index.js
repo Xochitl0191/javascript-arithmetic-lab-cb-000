@@ -24,3 +24,7 @@ function dec(n){
 n--
 return n
 }
+
+function makeInt(n){
+  return parseFloat(n)
+}
